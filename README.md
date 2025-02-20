@@ -23,7 +23,7 @@ The Library Management System is a simple Java-based application designed to man
 #### **Installation and Usage**
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/library-management-system.git
+   git clone https://github.com/Dj-gamer007/library-management-system.git
    ```
 2. Open the project in your Java IDE.
 3. Compile and run the main class:  
